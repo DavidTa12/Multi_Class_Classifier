@@ -1,4 +1,4 @@
-# Multi_Class_Classifier
+# Multi Class Classifier
 
 Machine Learning using Scikit-learn multi class classifier and Iris/Crabs dataset.
 
